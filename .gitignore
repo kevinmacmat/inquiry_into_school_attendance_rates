@@ -146,8 +146,4 @@ Thumbs.db
 */.ipynb_checkpoints/*
 
 # config file
-config.py
-title.akas.tsv
-title.basics.tsv
-title.ratings.tsv
-boxmojo_db.csv
+.ipynb_checkpoints
