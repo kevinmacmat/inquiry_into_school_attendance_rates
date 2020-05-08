@@ -1,10 +1,10 @@
 An Inquiry into School Attendance Rates
 ---------------------------------------
-This project is an inquiry into the factors affecting student attendance rates for elementary and middle schools in NYC. The data was collected from the annual School Quality report. The data gathered is a collection of questions and statistics with ordinal responses, continuous data, and percentages. I used an linear regression model in order to carry out the analysis. The end of the mod_2_final_notebook.ipyb notebook contains the iterations of models made, before settling on the final, with a small explanation. 
+This project is an inquiry into the factors affecting student attendance rates for elementary and middle schools in NYC. The data was collected from the annual School Quality Report. The data gathered is a collection of questions and statistics with ordinal responses, continuous data, and percentages. I used an linear regression model in order to carry out the analysis. The bottom of the mod_2_final_notebook.ipyb notebook contains the iterations of models made, before settling on the final, with a small explanation. A basic summation of the results show that most of the features did not have much statistical significance in accordance with the target variable, although chronic absences do account for about an 18% drop in the target variable. If carried out again, I would try more interactions and polynomial features. 
 
 Getting Started
 ---------------
-To access the project, simply open the mod_2_final_notebook.ipynb file and run the cells in sequential order. The notebook itself has further information explaining the code inside. 
+To access the project, simply open the mod_2_final_notebook.ipynb file and run the cells in sequential order. The notebook itself has further information explaining the code inside. This notebook makes use of Scipy, Scikit Learn, Seaborn, Matplotlib, Stats Models, Numpy, and Pandas packages/modules for its analysis. 
 
 Further Information and Files
 -----------------------------
