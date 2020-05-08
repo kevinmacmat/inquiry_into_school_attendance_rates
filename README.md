@@ -14,4 +14,4 @@ sqr.csv : Cleaned data file.
 
 data_cleaning_notebook_final.ipynb : Notebook used to clean and process the original data.
 
-schools.pdf : Presentation slides created in google slides
+presentation.pdf : Presentation slides created in google slides
