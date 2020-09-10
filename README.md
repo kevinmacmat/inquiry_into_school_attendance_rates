@@ -4,11 +4,11 @@ This project is an inquiry into the factors affecting student attendance rates f
 
 Getting Started
 ---------------
-To access the project, simply open the mod_2_final_notebook.ipynb file and run the cells in sequential order. The notebook itself has further information explaining the code inside. This notebook makes use of Scipy, Scikit Learn, Seaborn, Matplotlib, Stats Models, Numpy, and Pandas packages/modules for its analysis. 
+To access the project, simply open the project_notebook.ipynb file and run the cells in sequential order. The notebook itself has further information explaining the code and reasoning for each step in the process. This notebook makes use of Scipy, Scikit Learn, Seaborn, Matplotlib, Stats Models, Numpy, and Pandas packages/modules for its analysis. 
 
 Further Information and Files
 -----------------------------
-201819_ems_sq_results.xlsx : Orginial data file from https://infohub.nyced.org/reports/school-quality/school-quality-reports-and-resources
+Orginial data file from https://infohub.nyced.org/reports/school-quality/school-quality-reports-and-resources
 
 sqr.csv : Cleaned data file.
 
